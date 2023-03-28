@@ -1,5 +1,5 @@
 # 💫About Me :
-Alternant chez WeSur, et Bachelor Fullstack
+Alternant chez WeSur, et Bachelor Fullstack à ENSITECH
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marvine-gaudree) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/mervoui) 
